@@ -7,5 +7,6 @@ Hit me up:
 - [Gitlab](https://gitlab.com/j000sh)
 - [BitBucket](https://bitbucket.org/j000sh/)
 
-
-Status: **[Available for hire!](https://cs.rit.edu/~jal3040/files/JoshuaLindsay-Resume.pdf)**
+I also play chess!  Come at me! ♟
+- [chess.com](https://www.chess.com/member/ReasonableBully)
+- [lichess.org](https://lichess.org/@/ReasonableBully)
