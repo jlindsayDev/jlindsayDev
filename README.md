@@ -8,6 +8,7 @@ Hit me up 📲
 [Github](https://github.com/j000shDotCom/) -
 [Gitlab](https://gitlab.com/j000sh) -
 [Bitbucket](https://bitbucket.org/j000sh/) -
+[Twitter](https://twitter.com/j000shDotCom) -
 [Keybase](https://keybase.io/j000sh)
 
 Come at me ♟
