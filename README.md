@@ -5,10 +5,10 @@ I am a full-stack software engineer interested in the advancement of web technol
 Hit me up 📲
 
 [LinkedIn](https://www.linkedin.com/in/jlindsay-sf/) -
-[Github](https://github.com/j000shDotCom/) -
-[Gitlab](https://gitlab.com/j000sh) -
-[Bitbucket](https://bitbucket.org/j000sh/) -
 [Twitter](https://twitter.com/j000shDotCom) -
+[GitHub](https://github.com/j000shDotCom/) -
+[GitLab](https://gitlab.com/j000sh) -
+[Bitbucket](https://bitbucket.org/j000sh/) -
 [Keybase](https://keybase.io/j000sh)
 
 Come at me ♟
