@@ -1,6 +1,6 @@
 # Yo! I'm Josh 🙋🏾‍♂️
 
-I am a full-stack software engineer interested in the advancement of web technologies and the open web
+I am a software engineer interested in the advancement of web technologies and the open web
 
 Hit me up 📲
 
