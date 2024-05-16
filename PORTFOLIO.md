@@ -1,6 +1,6 @@
 # Portfolio
 
-TODO: expand each of these with descriptions, screenshots, and demo videos
+TODO: expand each of these with descriptions, screenshots, demo videos, timeline
 
 ## Percy
 
@@ -12,7 +12,7 @@ TODO: expand each of these with descriptions, screenshots, and demo videos
 - Visual Diff Sensitivity
 - Access Token Rotation
 - Contact BrowserStack Sales Modal
-- Azure Devops Integration
+- Azure DevOps Integration
 
 ## Sonder
 
