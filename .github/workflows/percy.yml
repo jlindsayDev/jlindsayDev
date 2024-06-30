@@ -1,0 +1,29 @@
+name: Percy Snapshot of Markdown
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows running workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v4.0.2
+
+      - name: Install Percy CLI
+        run: |
+          npm install --save-dev @percy/cli
+
+      - name: Run Percy Snapshot
+        run: |
+          npx @percy/cli snapshot -b 'https://github.com/jlindsayDev/jlindsayDev/blob/main/README.md' .
