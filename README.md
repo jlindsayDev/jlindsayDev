@@ -14,7 +14,3 @@ I am a software engineer interested in the advancement of web technologies and t
 
 - Softball, swimming, poolplaying, travel
 - Slavic language and linguistics enthusiast
-- Swiftie! (Warsaw, Poland - 3 Aug 2024!!)
-
-
-[![Percy Snapshot](https://github.com/jlindsayDev/jlindsayDev/actions/workflows/percy.yml/badge.svg)](https://github.com/jlindsayDev/jlindsayDev/actions/workflows/percy.yml)
