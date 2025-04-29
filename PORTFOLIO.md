@@ -160,7 +160,7 @@ Technologies: _Ruby on Rails, EmberJS, MySQL_
 - Publicly-facing API and self-updating interactive [reference documentation](https://www.browserstack.com/docs/percy/api-reference/authentication) (Swagger, OpenAPI)
 - Access token rotation
 
-![Token rotation screenshot](./images/access-token-rotation.png)
+![Token rotation screenshot](./assets/access-token-rotation.png)
 
 <details>
 <summary>Commits:</summary>
@@ -176,9 +176,13 @@ Technologies: _Ruby on Rails, EmberJS, MySQL_
 
 ### Visual Diff Sensitivity
 
-> June 2021
+> May 2021 to June 2021
 
-![Demo of visual diff sensitivity slider](./images/diff-sensitivity.gif)
+![Preview of visual diff sensitivity slider](./assets/diff-sensitivity-animation.png)
+
+- Created slider component for demonstrating visual diff
+- Added relevant column to Project model and API
+- Placed behind feature flag to confirm adoption duringn A/B test
 
 <details>
 <summary>Commits:</summary>
