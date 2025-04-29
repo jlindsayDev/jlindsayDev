@@ -350,6 +350,7 @@ Supporting commits in monolith repo
 - Leverage PredictHQ API to request all events for a given location
 - Allow pricing team to adjust listing prices based on nearby events
 
+<details>
 <summary>Commits:</summary>
 
 |     | Date                      | Hash    | Message                                       |
