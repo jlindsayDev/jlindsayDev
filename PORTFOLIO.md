@@ -33,6 +33,8 @@ Technologies: _Ruby on Rails, EmberJS, MySQL_
 
 > October 2022 to November 2022
 
+https://github.com/user-attachments/assets/a9601665-7694-4a0f-891e-92cf463cf45c
+
 - Front-end focused
 - Coordinated with BrowserStack Sales Eng team
 - Cross domain support
