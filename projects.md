@@ -1,4 +1,4 @@
-# Portfolio
+# Projects
 
 ## Percy
 
@@ -8,10 +8,10 @@ Technologies: _Ruby on Rails, EmberJS, MySQL_
 
 > October 2022 to March 2023
 
+- Project Lead
 - Implemented [enterprise support](https://percy.io/enterprise) and role authorizations to coincide with BrowserStack organizations
 - Coordinated with stakeholders and customers for seamless migration for existing orgs
 - Ironed down specifications with BrowserStack PM and Percy Cofounder
-- Lead this project
 
 <details>
 <summary>Commits</summary>
@@ -157,7 +157,7 @@ https://github.com/user-attachments/assets/a9601665-7694-4a0f-891e-92cf463cf45c
 
 ### API Documentation and Strict API Token Management
 
-> July 2021
+> June 2021 to July 2021
 
 - Publicly-facing API and self-updating interactive [reference documentation](https://www.browserstack.com/docs/percy/api-reference/authentication) (Swagger, OpenAPI)
 - Access token rotation
