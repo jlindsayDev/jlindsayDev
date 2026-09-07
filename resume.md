@@ -71,5 +71,9 @@ Loans team (Java 6)
 
 ## Education
 
-### Bachelor's Degree Computer Science
+### Bachelor's Degree in Computer Science
 **Rochester Institute of Technology** | *2008 - 2013*
+
+- Major: Computer Science
+- Minors: Mathematics, Russian Language
+- Courses: Programming Language Theory, Compiler Construction, Graph Theory, Lingustics
