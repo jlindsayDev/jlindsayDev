@@ -7,9 +7,9 @@ Mid-level/Senior Software engineer with 7+ years of experience architecting scal
 
 Interested in **Full Stack** and **Backend** software engineering roles
 
-**Languages:** Ruby on Rails, JavaScript/TypeScript (NodeJS, React), Python, Java
+**Languages**: Ruby on Rails, JavaScript/TypeScript (NodeJS, React), Python, Java
 
-Technologies: Sidekiq, MySQL, Postgresql, Git, Docker
+**Technologies**: Sidekiq, MySQL, Postgresql, Git, Docker
 
 ---
 
@@ -64,10 +64,10 @@ Loans team (Java 6)
 **Brand Networks** | *Mar 2013 - Oct 2013*
 
 ### Software Developer Intern
-**Parsons (SPARTA)** | *Nov 2009 - Mar 2010 / Sep 2011 - Mar 2012*-->
+**Parsons (SPARTA)** | *Nov 2009 - Mar 2010 / Sep 2011 - Mar 2012*
 
 ### Student Lab Instructor
-**RIT Computer Science Department** | *Nov 2010 - Mar 2011 / Sep 2012 - Mar 2013*
+**RIT Computer Science Department** | *Nov 2010 - Mar 2011 / Sep 2012 - Mar 2013*-->
 
 ## Education
 
